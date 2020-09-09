@@ -1,6 +1,6 @@
 import os
 print 'using"''"'
-b = input("command >|\n")  
+b = input("command >|\n")
 os.system(b)
 
 
